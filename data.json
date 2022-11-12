@@ -1,0 +1,116 @@
+[
+    {
+      "image":"/assets/icons/icon-work.svg",
+      "bgcolour":"#ff8c66",
+      "title": "Work",
+      "timeframes": {
+        "daily": {
+          "current": 5,
+          "previous": 7
+        },
+        "weekly": {
+          "current": 32,
+          "previous": 36
+        },
+        "monthly": {
+          "current": 103,
+          "previous": 128
+        }
+      }
+    },
+    {
+      "image":"/assets/icons/icon-play.svg",
+      "bgcolour":"#56c2e6",
+      "title": "Play",
+      "timeframes": {
+        "daily": {
+          "current": 1,
+          "previous": 2
+        },
+        "weekly": {
+          "current": 10,
+          "previous": 8
+        },
+        "monthly": {
+          "current": 23,
+          "previous": 29
+        }
+      }
+    },
+    {
+      "image":"/assets/icons/icon-study.svg",
+      "bgcolour":"#ff5c7c",
+      "title": "Study",
+      "timeframes": {
+        "daily": {
+          "current": 0,
+          "previous": 1
+        },
+        "weekly": {
+          "current": 4,
+          "previous": 7
+        },
+        "monthly": {
+          "current": 13,
+          "previous": 19
+        }
+      }
+    },
+    {
+      "image":"/assets/icons/icon-exercise.svg",
+      "bgcolour":"#4acf81",
+      "title": "Exercise",
+      "timeframes": {
+        "daily": {
+          "current": 1,
+          "previous": 1
+        },
+        "weekly": {
+          "current": 4,
+          "previous": 5
+        },
+        "monthly": {
+          "current": 11,
+          "previous": 18
+        }
+      }
+    },
+    {
+      "image":"/assets/icons/icon-social.svg",
+      "bgcolour":"#7536d3",
+      "title": "Social",
+      "timeframes": {
+        "daily": {
+          "current": 1,
+          "previous": 3
+        },
+        "weekly": {
+          "current": 5,
+          "previous": 10
+        },
+        "monthly": {
+          "current": 21,
+          "previous": 23
+        }
+      }
+    },
+    {
+      "image":"/assets/icons/icon-self-care.svg",
+      "bgcolour":"#f1c65b",
+      "title": "SelfCare",
+      "timeframes": {
+        "daily": {
+          "current": 0,
+          "previous": 1
+        },
+        "weekly": {
+          "current": 2,
+          "previous": 2
+        },
+        "monthly": {
+          "current": 7,
+          "previous": 11
+        }
+      }
+    }
+  ]
